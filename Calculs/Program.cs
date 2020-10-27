@@ -37,7 +37,7 @@ namespace Calculs
                     }
                     catch
                     {
-                        Console.WriteLine("Erreur de saisie");
+                        
                     }
                     
                 }
